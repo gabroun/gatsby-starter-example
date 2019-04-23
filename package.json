@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-startre-example",
+  "version": "1.0.0",
+  "description": "Gatsby Starter example",
+  "main": "index.js",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-gabroun:gabroun/gatsby-starter-example.git"
+  },
+  "author": "Malik Elgabroun",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.3.25",
+    "gatsby-cli": "^2.5.9",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
