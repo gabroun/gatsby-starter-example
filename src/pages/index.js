@@ -14,7 +14,7 @@ class Index extends React.Component {
                     {edges.map(edge => {
                         const {path, title} = edge.node.frontmatter;
                         return (
-                            <li>
+                            <li key={path}>
                                 <Link to={path}>{title}</Link>
                             </li>
                         );
