@@ -6,5 +6,4 @@ summary: 'test post example'
 ---
 
 # Hello World
-
 this is a test post showing how gatsby create pages from markdown files.
