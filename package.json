@@ -16,7 +16,7 @@
     "gatsby": "^2.3.25",
     "gatsby-cli": "^2.5.9",
     "gatsby-source-filesystem": "^2.0.29",
-    "gatsby-transformer-remark": "^2.3.8",
+    "gatsby-transformer-remark": "^5.25.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
